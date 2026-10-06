@@ -1,0 +1,12 @@
+name: example_repo
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - polars
+  - pre-commit
+  - ruff
